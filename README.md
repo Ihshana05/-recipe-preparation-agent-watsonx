@@ -33,6 +33,13 @@ This project solves that by building an agent that takes in grocery inputs and r
 - Live preview chat and JSON input supported
 
 ---
+### 👀 Preview
+
+Here’s a sample output of the deployed Recipe Agent:
+
+![Output Screenshot](https://github.com/Ihshana05/-recipe-preparation-agent-watsonx/blob/main/output.png)
+
+---
 
 ## 🧪 Example Interaction
 
